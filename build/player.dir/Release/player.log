@@ -1,0 +1,8 @@
+﻿  Building Custom Rule D:/jigarpatel-cpp/CMakeLists.txt
+  dx11_renderer.cpp
+  ffmpeg_decoder.cpp
+  main.cpp
+  Generating Code...
+  player.vcxproj -> D:\jigarpatel-cpp\build\Release\player.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
